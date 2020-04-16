@@ -1,9 +1,19 @@
-# News-Classification
-Classify news into different categories
+# News Classification
 
-To run this app :
-Step 1 : pip install requirements.txt
-         if you have conda as python interpreter
-         conda install requirements.txt
-Step 2 : goto 
-         localhost:5000 to see the APIs
+This app classifies news into different categories.
+
+## Installation
+
+Use [pip](https://pip.pypa.io/en/stable/) to install required packages.
+
+```bash
+pip install requirements.txt
+```
+If you use [conda](https://docs.conda.io/en/latest/miniconda.html) package manager.
+
+```bash
+conda install requirements.txt
+```
+
+## Usage
+Run the ```app.py``` and goto ```localhost:5000``` to view and execute APIs
